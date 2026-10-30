@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+<title id="title">Nexora NXR token logo</title>
+<desc id="desc">Original Nexora geometric monogram in champagne gold on a charcoal circular token.</desc>
+<defs>
+ <linearGradient id="gold" x1="0" y1="0" x2="0.85" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#FFF0BE"/><stop offset="0.38" stop-color="#E6C879"/><stop offset="0.7" stop-color="#BB8E3D"/><stop offset="1" stop-color="#F4DB96"/></linearGradient>
+ <radialGradient id="face" cx="35%" cy="25%" r="85%"><stop stop-color="#292C32"/><stop offset="1" stop-color="#101217"/></radialGradient>
+</defs>
+<circle cx="500" cy="500" r="465" fill="url(#gold)"/>
+<circle cx="500" cy="500" r="425" fill="url(#face)"/>
+<circle cx="500" cy="500" r="413" fill="none" stroke="#D6B367" stroke-opacity="0.45" stroke-width="2"/>
+<g transform="translate(-12,-8) scale(0.64)" fill="url(#gold)">
+<path d="M 358,473 L 684,754 L 684,867 L 440,665 L 440,1035 L 358,1121 Z"/>
+<path d="M 405,473 L 1241,473 L 868,848 L 868,731 L 1038,559 L 819,559 L 819,1124 L 731,1040 L 731,559 L 498,559 Z"/>
+<path d="M 579,842 L 684,928 L 684,959 L 598,1045 L 711,1045 L 784,1124 L 399,1124 L 577,941 Z"/>
+<path d="M 868,866 L 1228,1124 L 1076,1124 L 867,978 Z"/>
+<path d="M 1002,808 L 1110,880 L 1141,1003 L 942,870 Z"/>
+</g>
+</svg>
